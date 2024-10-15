@@ -5,5 +5,4 @@ public class Selection {
 		// TODO Auto-generated method stub
 		System.out.println("Selection");
 	}
-
 }
